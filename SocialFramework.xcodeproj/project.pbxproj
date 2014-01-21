@@ -21,6 +21,7 @@
 		0030B81C188E11390055AB0B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0030B7FE188E11390055AB0B /* UIKit.framework */; };
 		0030B824188E11390055AB0B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0030B822188E11390055AB0B /* InfoPlist.strings */; };
 		0030B826188E11390055AB0B /* SocialFrameworkTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0030B825188E11390055AB0B /* SocialFrameworkTests.m */; };
+		0030B830188E129C0055AB0B /* image.png in Resources */ = {isa = PBXBuildFile; fileRef = 0030B82F188E129C0055AB0B /* image.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		0030B821188E11390055AB0B /* SocialFrameworkTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SocialFrameworkTests-Info.plist"; sourceTree = "<group>"; };
 		0030B823188E11390055AB0B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0030B825188E11390055AB0B /* SocialFrameworkTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SocialFrameworkTests.m; sourceTree = "<group>"; };
+		0030B82F188E129C0055AB0B /* image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		0030B801188E11390055AB0B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0030B82F188E129C0055AB0B /* image.png */,
 				0030B802188E11390055AB0B /* SocialFramework-Info.plist */,
 				0030B803188E11390055AB0B /* InfoPlist.strings */,
 				0030B806188E11390055AB0B /* main.m */,
@@ -230,6 +233,7 @@
 			files = (
 				0030B813188E11390055AB0B /* Images.xcassets in Resources */,
 				0030B805188E11390055AB0B /* InfoPlist.strings in Resources */,
+				0030B830188E129C0055AB0B /* image.png in Resources */,
 				0030B80E188E11390055AB0B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
